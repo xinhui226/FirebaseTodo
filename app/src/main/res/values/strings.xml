@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">mob21firebase</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete">Delete</string>
+    <string name="createdat">CreatedAt</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_yet">Don\'t have an account yet?</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="enter_password_again">Enter Password Again</string>
+    <string name="profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="logout">Logout</string>
+    <string name="edit_profile_pic">Edit Profile Pic</string>
+    <string name="default_web_client_id">234694547372-opeqgbmai4crea3i7jvqht1u7vqh5dni.apps.googleusercontent.com</string>
+    <string name="signin_with_google">Signin with google</string>
+</resources>

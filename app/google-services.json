@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1089772749108",
+    "firebase_url": "https://mobile21-a3385-default-rtdb.firebaseio.com",
+    "project_id": "mobile21-a3385",
+    "storage_bucket": "mobile21-a3385.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089772749108:android:b9fc5a6763e562d515e561",
+        "android_client_info": {
+          "package_name": "com.xinhui.mob21firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089772749108-tql8nbrg48ld8k03hjsi8pffn89c566m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xinhui.mob21firebase",
+            "certificate_hash": "dfbe9a763ab64c78632ad9bf7601f35bb6ba56b5"
+          }
+        },
+        {
+          "client_id": "1089772749108-m8fl9tac693pdtcdb72mhn7pr4lb0d16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4_vOTsSe2XoLAX-5i8nAQj4-yQdnwsOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089772749108-m8fl9tac693pdtcdb72mhn7pr4lb0d16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
